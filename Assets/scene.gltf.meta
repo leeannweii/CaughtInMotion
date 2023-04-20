@@ -1,0 +1,84 @@
+fileFormatVersion: 2
+guid: 18837a2ecbb4e1a4b81c8442bda0d818
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 715df9372183c47e389bb6e19fbc3b52, type: 3}
+  editorImportSettings:
+    generateSecondaryUVSet: 0
+  importSettings:
+    nodeNameMethod: 1
+    animationMethod: 2
+    generateMipMaps: 1
+    defaultMinFilterMode: 9729
+    defaultMagFilterMode: 9729
+    anisotropicFilterLevel: 1
+  instantiationSettings:
+    mask: -1
+    layer: 0
+    skinUpdateWhenOffscreen: 1
+    lightIntensityFactor: 1
+    sceneObjectCreation: 2
+  assetDependencies:
+  - type: 0
+    originalUri: Assets\scene.bin
+    assetPath: Assets\scene.bin
+  - type: 1
+    originalUri: Assets\textures\box-l_baseColor.png
+    assetPath: Assets\textures\box-l_baseColor.png
+  - type: 1
+    originalUri: Assets\textures\box-l_metallicRoughness.png
+    assetPath: Assets\textures\box-l_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\textures\box-l_normal.png
+    assetPath: Assets\textures\box-l_normal.png
+  - type: 1
+    originalUri: Assets\textures\material_baseColor.png
+    assetPath: Assets\textures\material_baseColor.png
+  - type: 1
+    originalUri: Assets\textures\material_metallicRoughness.png
+    assetPath: Assets\textures\material_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\textures\material_normal.png
+    assetPath: Assets\textures\material_normal.png
+  - type: 1
+    originalUri: Assets\textures\material_2_baseColor.png
+    assetPath: Assets\textures\material_2_baseColor.png
+  - type: 1
+    originalUri: Assets\textures\material_2_metallicRoughness.png
+    assetPath: Assets\textures\material_2_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\textures\material_2_normal.png
+    assetPath: Assets\textures\material_2_normal.png
+  - type: 1
+    originalUri: Assets\textures\STAIRS_baseColor.png
+    assetPath: Assets\textures\STAIRS_baseColor.png
+  - type: 1
+    originalUri: Assets\textures\STAIRS_metallicRoughness.png
+    assetPath: Assets\textures\STAIRS_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\textures\STAIRS_normal.png
+    assetPath: Assets\textures\STAIRS_normal.png
+  - type: 1
+    originalUri: Assets\textures\Mat.1_baseColor.png
+    assetPath: Assets\textures\Mat.1_baseColor.png
+  - type: 1
+    originalUri: Assets\textures\Mat.1_metallicRoughness.png
+    assetPath: Assets\textures\Mat.1_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\textures\Mat.1_normal.png
+    assetPath: Assets\textures\Mat.1_normal.png
+  - type: 1
+    originalUri: Assets\textures\material_5_baseColor.png
+    assetPath: Assets\textures\material_5_baseColor.png
+  - type: 1
+    originalUri: Assets\textures\material_5_metallicRoughness.png
+    assetPath: Assets\textures\material_5_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\textures\material_5_normal.png
+    assetPath: Assets\textures\material_5_normal.png
+  reportItems: []

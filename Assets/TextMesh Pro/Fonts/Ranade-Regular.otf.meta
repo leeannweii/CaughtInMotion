@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: c726e2bfa878fba439a0290f2d286ac4
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Ranade
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f6d46d0939cd5e140a6be2aa768dff78, type: 3}
+  - {fileID: 12800000, guid: 10f14bf9655048044bba0eb1258334db, type: 3}
+  - {fileID: 12800000, guid: 36d48133689543a4497c31623af83908, type: 3}
+  - {fileID: 12800000, guid: 34e29fbd55887e24eae131357d689ca0, type: 3}
+  - {fileID: 12800000, guid: 9402eec61aa7ffe4cbdaf978eac2fd26, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

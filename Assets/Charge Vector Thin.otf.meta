@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 4bd4b5eaad6ae484bbeb9b6f7e4a2b7d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Charge Vector Thin
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 960262ac04317ab4c968dda9d2061174, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
